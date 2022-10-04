@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiloszKozaa/nodeJS-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiloszKozaa/nodeJS-learning/issues"
+  },
+  "homepage": "https://github.com/MiloszKozaa/nodeJS-learning#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
