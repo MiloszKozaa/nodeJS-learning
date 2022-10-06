@@ -6,3 +6,34 @@
 20221006	15:55:07	13998546-ea22-41d5-9db9-9355e6556239	/css/style.css	GET
 20221006	15:55:07	4e6c287a-d6e0-4e78-bd74-543cdd3d3c7e	/img/img1.jpg	GET
 20221006	15:57:40	d17d2ba5-084b-4990-b347-46223f58b9f6	/new-page	GET
+20221006	16:55:45	2c22f215-e805-4390-9610-4b776075a6b4	GET	undefined	/new-page
+20221006	16:55:45	2c9859d0-d586-4281-87db-395b811fa454	GET	undefined	/css/style.css
+20221006	16:55:45	b94995df-8d71-4ca4-a3af-61f1abb9d548	GET	undefined	/img/img1.jpg
+20221006	16:58:21	76ea551a-777a-4898-885e-8471e9e10cfb	GET	undefined	/new-page
+20221006	16:58:21	c6453eb0-0ecb-4fec-b556-820b110bf976	GET	undefined	/css/style.css
+20221006	16:58:21	26d23b5f-b0a9-4e64-9492-d92ade285595	GET	undefined	/img/img1.jpg
+20221006	16:58:28	bfb66750-f798-4097-a6dd-3e9fcffc100e	GET	undefined	/new-page.html
+20221006	16:58:28	1ba92ae0-c3fb-4512-ad35-279cb8d86bfe	GET	undefined	/img/img1.jpg
+20221006	16:58:28	cf01d1f0-8acc-4b07-9fbc-d8fa42532d26	GET	undefined	/css/style.css
+20221006	16:58:29	ce9b305d-4992-4a60-8e8f-5999193e4a49	GET	undefined	/new-page.html
+20221006	16:58:29	823aad65-7e2d-4fea-860e-723dbd505ef9	GET	undefined	/img/img1.jpg
+20221006	16:58:35	7ec9ed46-0dc7-4195-a563-b49986006b91	GET	undefined	/index
+20221006	16:58:35	f33ece47-89c7-4865-b3c1-3edf5ec95110	GET	undefined	/css/style.css
+20221006	17:02:24	9ca0f04c-c017-4ee5-b274-7214023bce05	OPTIONS	https://www.google.com	/
+20221006	17:02:24	23f89911-9fa0-41ae-858c-806db94b8570	GET	https://www.google.com	/
+20221006	17:03:05	9fedb7f7-c6ab-4c10-a092-00a84ed4f10a	GET	undefined	/index
+20221006	17:03:05	1c05a50e-a250-4d41-bc69-4b3ee9e96b79	GET	undefined	/css/style.css
+20221006	17:07:49	d733435e-720e-4cc7-bb07-50c33f860def	OPTIONS	https://www.google.com	/
+20221006	17:07:49	eb459aca-d194-40d8-9848-41b434e417a8	GET	https://www.google.com	/
+20221006	17:08:18	9aa92910-f235-4c22-b18e-1bebb09dd54f	OPTIONS	https://www.google.com	/
+20221006	17:08:18	05185b79-1f96-4e99-8b72-12733285d32d	GET	https://www.google.com	/
+20221006	17:11:18	cb3b2fdc-8cc7-4d83-8bc8-61f2646d56c5	GET	undefined	/index
+20221006	17:12:27	53508848-8227-402d-99c7-3c78d6b41c31	GET	undefined	/index
+20221006	17:12:27	ac463926-e14f-4bfb-a180-6bf8a3568ad6	GET	undefined	/css/style.css
+20221006	17:15:55	743a2eb7-087a-4847-b806-e925dd74f815	GET	undefined	/index
+2022/10/06	17:17:06	2a78f069-90f6-4f3b-91fd-9691ca28cc93	GET	undefined	/index
+2022.10.06	17:17:24	7b759ea0-fe18-4187-973b-51e0b1799d11	GET	undefined	/index
+2022.10.06	17:21:55	fe717905-9591-4fd0-a568-c0544c174cdf	GET	undefined	/index
+2022.10.06	17:21:55	484e6c46-fe6d-40a7-87b8-173d6921c008	GET	undefined	/css/style.css
+2022.10.06	17:21:58	9b401268-04a4-4959-a11a-36a6f9ce5359	GET	undefined	/asd
+2022.10.06	17:21:58	796d3388-ba76-4e8f-90f9-06c839318b1f	GET	undefined	/css/style.css
