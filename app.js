@@ -1,19 +1,20 @@
-// TIME - 1:45:40
+// 03:40:40
 // MODULES - another file with functions or variables
 // OS - operation system
 // PATH - path to another file
-// FS - file system sync
-// FS - file system async
+// FS - file system sync or async
+// Async function with promises
+// EventEmitter - .on listening  .emit emiting, have to be last
 
-const http = require('http');
+const EventEmitter = require('events');
 
-const server = http.createServer((req, res) => {
-  if (req.url === '/') {
-    res.end('Hello with /');
-  }
-  if (req.url === '/about') {
-    res.end('Hello with /about');
-  }
+const customEmitter = new EventEmitter();
+
+customEmitter.on('response', name => {
+  console.log('data recived ' + name);
+});
+customEmitter.on('response', () => {
+  console.log('some');
 });
 
-server.listen(5000);
+customEmitter.emit('response', 'asd');
