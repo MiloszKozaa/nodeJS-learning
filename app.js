@@ -1,20 +1,16 @@
-// 03:40:40
-// MODULES - another file with functions or variables
-// OS - operation system
-// PATH - path to another file
-// FS - file system sync or async
-// Async function with promises
-// EventEmitter - .on listening  .emit emiting, have to be last
+const express = require('express');
+const port = 9002;
 
-const EventEmitter = require('events');
 
-const customEmitter = new EventEmitter();
+const app = express();
 
-customEmitter.on('response', name => {
-  console.log('data recived ' + name);
-});
-customEmitter.on('response', () => {
-  console.log('some');
+app.get('/', (req, res) => {
+  res.json({
+    name: 'Shopping Assistant',
+    message: `I'm going to help you with your shopping`,
+  });
 });
 
-customEmitter.emit('response', 'asd');
+app.listen(port, () => {
+  console.log(`server started on port ${port}`);
+});
